@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information System, Uniritter 2014
+* M.B.A. in Digital Marketing, ESPM, 2016
+* Ms.C in Computer Science (Research Line: Computer Graphics), PUCRS, 2022
+* Ph.D in Computer Science (Research Line: Computer Graphics), PUCRS, 2025 (expected)
 
 Work experience
 ======
