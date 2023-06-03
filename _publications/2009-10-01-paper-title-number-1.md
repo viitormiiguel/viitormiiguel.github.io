@@ -1,7 +1,7 @@
 ---
 title: "Análises de Sentimentos: abordagem lexical de classificação de opinião no contexto mercado financeiro brasileiro"
 collection: publications
-permalink: /publication/2019-01-paper-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-05-10
 venue: 'Workshop of Artificial Intelligence Applied to Finance (WAIAF 2019)'
