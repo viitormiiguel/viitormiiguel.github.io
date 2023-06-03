@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-
 Education
 =========
 
@@ -19,7 +17,7 @@ Education
 Work experience
 ===============
 
-* Hygia Saude: Data Scientist
+* Hygia Saúde: Data Scientist (2021 - 2023)
 
   Development of automated processes and exploratory, descriptive, diagnostic and predictive analysis of data in the health area.
 
@@ -32,10 +30,10 @@ Work experience
   - Data conversion and tabulation for BI
   - Generation of statistical reports
   - MongoDB database maintenance
-* MoveIdeias: Developer Full Stack
+* MoveIdeias: Developer Full Stack (2018 - 2020)
 
   * Web development on the carrier management platform, which allows visibility of the complete process of the order cycle and provides tracking of the steps and their events from the order or receipt to delivery to the final customer. In addition to integrating the platform with BI tools (Power BI).
-* Grupo L&S: FrontEnd Developer
+* Grupo L&S: FrontEnd Developer (2016 - 2017)
 
   - Website development and support (PHP)
   - Mobile Responsive (Bootstrap)
@@ -48,7 +46,7 @@ Work experience
   - Control of dependencies (Bower)
   - Github
 
-- The Beauty 247: FrontEnd Developer
+- The Beauty 247: FrontEnd Developer (2015 - 2016 )
   - Website development and support (PHP)
   - Mobile Responsive (Bootstrap)
   - PostgreSQL, SQLServer database development and support
@@ -66,26 +64,18 @@ Academic Experience
 
   * Multi-Agent: Jason, Cartago and Moses
   * NLP: Sentiment Analysis (Lexicons, Polarities, Context), Supervised Learning (NaiveBayes, SVM), Ontologies (Domain and Top) and Web Scraping
-* PUCRS - Research Assistant (2020): Research in the area of Computer Vision, focused on the Recognition of Spontaneous Facial Expressions. The main goal of analyzing and validating a model that allows the identification of spontaneous faces in an uncontrolled environment.
+* PUCRS - Research Assistant (2020 - until now): Research in the area of Computer Vision, focused on the Recognition of Spontaneous Facial Expressions. The main goal of analyzing and validating a model that allows the identification of spontaneous faces in an uncontrolled environment.
 
   * Development of Real Face Collection application
-
-  - Analysis of facial expressions (posed and spontaneous)
-  - Testing and Training of Face Recognition Models (FER)
-  - Morphable 3D model testing
-  - Mesh manipulation (Rig)
-  - Generation of spontaneous data from reaction videos
+  * Analysis of facial expressions (posed and spontaneous)
+  * Testing and Training of Face Recognition Models (FER)
+  * Morphable 3D model testing
+  * Mesh manipulation (Rig)
+  * Generation of spontaneous data from reaction videos
 
 Publications
 ============
 
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-=====
-
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
