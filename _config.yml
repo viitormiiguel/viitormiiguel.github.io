@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vitor Peres/ MSc in Computer Science"
+title                    : "Vitor Peres/ Ms.C Computer Science"
 title_separator          : "-"
 name                     : &name "Vitor Miguel"
 description              : &description "personal description"
@@ -99,10 +99,10 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/peresvitor/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vitormiguelperes/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
