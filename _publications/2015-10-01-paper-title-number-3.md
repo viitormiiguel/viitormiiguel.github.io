@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Towards the Creation of Spontaneous Datasets Based on Youtube Reaction Videos"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-01-01
+venue: 'Advances in Visual Computing: 16th International Symposium, ISVC 2021'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-90436-4_16'
+citation: 'Peres, V.M.X., Musse, S.R. (2021). &quot;Towards the Creation of Spontaneous Datasets Based on Youtube Reaction Videos. &quot; <i>Advances in Visual Computing. ISVC 2021</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Reaction videos from YouTube provide a range of possibilities when looking to investigate human behavior. This research aims to present a method of creating a spontaneous facial expression dataset from YouTube reaction videos. In this work, we use Convolutional Neural Networks to classify emotions in facial expressions, as well as feature extraction tools to support this classification. To understand the behavior of faces that react to a given trailer, we firstly select automatically interest moments in the video where reactions were more intense and then we present two metrics: Agreement and Continuity rates, which aim to help to identify spontaneous emotions, that cannot be classified by Neural Networks with high assertiveness. Using our metrics, we found an average of 71% of the faces that present similarity of classified emotions, in the most intense moments in the video. Our proposal is to use our …
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_16)
