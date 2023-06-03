@@ -59,15 +59,22 @@ Work experience
   - Development with payment APIs (PagSeguro, Moip, Paypal)
   - Implementation of integration with Web Services using standard SOAP PHP protocol
 
-Skills
-======
+Academic Experience
+===================
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PUCRS - Research Assistant (2018 - 2019): Scholarship holder in Multiagent Systems and Natural Language Processing, focused on discovering new metrics to help decision-making in the financial market.
+
+  * Multi-Agent: Jason, Cartago and Moses
+  * NLP: Sentiment Analysis (Lexicons, Polarities, Context), Supervised Learning (NaiveBayes, SVM), Ontologies (Domain and Top) and Web Scraping
+* PUCRS - Research Assistant (2020): Research in the area of Computer Vision, focused on the Recognition of Spontaneous Facial Expressions. The main goal of analyzing and validating a model that allows the identification of spontaneous faces in an uncontrolled environment.
+
+  * Development of Real Face Collection application
+
+  - Analysis of facial expressions (posed and spontaneous)
+  - Testing and Training of Face Recognition Models (FER)
+  - Morphable 3D model testing
+  - Mesh manipulation (Rig)
+  - Generation of spontaneous data from reaction videos
 
 Publications
 ============
@@ -82,15 +89,3 @@ Talks
 <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
-Teaching
-========
-
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Service and leadership
-======================
-
-* Currently signed in to 43 different slack teams
